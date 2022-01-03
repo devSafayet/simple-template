@@ -11,10 +11,17 @@
 }
 
 .nav-section{
-    background-color: goldenrod;
-    text-align: center;
+    background-color:#8f8e8e;
+    width: 100%;
+    height: 100px;
+    
 
 }
+.nav-section ol li{
+    list-style: none;
+    float: right;
+}
+
 
 .main-contain{
    width: 100%;
