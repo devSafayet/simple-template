@@ -30,31 +30,33 @@
 .box-1{
     text-align: center;
     
-    height: 200px;
+    height: 300px;
     width: 50%;
     background-color: gold;
+    display: inline-block;
     
 }
 .box-2{
     text-align: center;
-    height: 200px;
+    height: 300px;
     width: 50%;
     background-color: red;
-    margin:right;
-    display: right;
+    float: right;
 }
 .box-3{
     text-align: center;
-    height: 200px;
+    height: 300px;
     width: 50%;
     background-color: pink;
+    display: inline-block;
 }
 
 .box-4{
     text-align: center;
-    height: 200px;
+    height: 300px;
     width: 50%;
     background-color: blue;
+    float: right;
 }
 
 
